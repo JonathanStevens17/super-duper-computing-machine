@@ -1,4 +1,12 @@
 /*Removes default on the body-tag*/
 body{
-    margin:0;
+    margin:1px;
+}
+
+.Profile{
+    width:250px;
+    height:auto;
+}
+.Profile img{
+  width: inherit;
 }
